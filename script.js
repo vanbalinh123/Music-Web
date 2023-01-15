@@ -1,4 +1,4 @@
-const music = new Audio('vande.mp3');
+const music = new Audio('audio/1.mp3');
 
 // creat Array
 

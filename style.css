@@ -152,8 +152,9 @@ header .menu_side .menu_song li .subtitle {
 
 header .menu_side .menu_song li .bi {
     position: absolute;
+    /* border: 1px solid #fff; */
     right: 15px;
-    top: 6px;
+    top: 12px;
     font-size: 16px;
 }
 
@@ -336,7 +337,7 @@ header .master_play .vol .bi {
 header .master_play .vol input{
     position: absolute;
     width: 100%;
-    top: -10px;
+    top: -7px;
     left: 0;
     cursor: pointer;
     z-index: 99999999;
